@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AVL/AVL.iml" filepath="$PROJECT_DIR$/AVL/AVL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA.iml" filepath="$PROJECT_DIR$/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-LabASS-2/DSA-LabASS-2.iml" filepath="$PROJECT_DIR$/DSA-LabASS-2/DSA-LabASS-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-MID-THEORY-EXAM-PREP/DSA-MID-THEORY-EXAM-PREP.iml" filepath="$PROJECT_DIR$/DSA-MID-THEORY-EXAM-PREP/DSA-MID-THEORY-EXAM-PREP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-lab-task-03-04-2023/DSA-lab-task-03-04-2023.iml" filepath="$PROJECT_DIR$/DSA-lab-task-03-04-2023/DSA-lab-task-03-04-2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA-theoryAss-linkedList/DSA-theoryAss-linkedList.iml" filepath="$PROJECT_DIR$/DSA-theoryAss-linkedList/DSA-theoryAss-linkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DSA_MIDTERM_PREP/DSA_MIDTERM_PREP.iml" filepath="$PROJECT_DIR$/DSA_MIDTERM_PREP/DSA_MIDTERM_PREP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoubleLinkedList-DSA/DoubleLinkedList-DSA.iml" filepath="$PROJECT_DIR$/DoubleLinkedList-DSA/DoubleLinkedList-DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fa21-bcs-008LAB_Terminal/Fa21-bcs-008LAB_Terminal.iml" filepath="$PROJECT_DIR$/Fa21-bcs-008LAB_Terminal/Fa21-bcs-008LAB_Terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LEETCODE/LEETCODE.iml" filepath="$PROJECT_DIR$/LEETCODE/LEETCODE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList-DSA/LinkedList-DSA.iml" filepath="$PROJECT_DIR$/LinkedList-DSA/LinkedList-DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trees/Trees.iml" filepath="$PROJECT_DIR$/Trees/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finalExamPrep/finalExamPrep.iml" filepath="$PROJECT_DIR$/finalExamPrep/finalExamPrep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secARRAY/secARRAY.iml" filepath="$PROJECT_DIR$/secARRAY/secARRAY.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tic tac toe/tic tac toe.iml" filepath="$PROJECT_DIR$/tic tac toe/tic tac toe.iml" />
+    </modules>
+  </component>
+</project>
